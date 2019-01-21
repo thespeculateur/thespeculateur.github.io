@@ -1,11 +1,11 @@
 #myFooter {
-    background-color: #3c3d41;
+    background-color: #343a40;
     color: white;
     padding-top: 0px; 
 }
 
 #myFooter .footer-copyright {
-    background-color: #333333;
+    background-color: #343a40;
     padding-top: 3px;
     padding-bottom: 3px;
     text-align: center;
@@ -31,22 +31,23 @@
     line-height: 1.7;
 }
 
-#myFooter h5 {
-    font-size: 18px;
+#myFooter h5 {                                      /* REALTIME, VISUAL, MEDIM */
+    font-size: 15px;
     color: white;
     font-weight: bold;
     margin-top: 30px;
 }
 
 #myFooter h2 a{
-    font-size: 50px;
+    font-size: 10px;
     text-align: center;
     color: #fff;
 }
 
-#myFooter a {
+#myFooter a {                                       /* below REALTIME, VISUAL, MEDIUM */
     color: #d2d1d1;
     text-decoration: none;
+    font-size: 13px
 }
 
 #myFooter a:hover,
