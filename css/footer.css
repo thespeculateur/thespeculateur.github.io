@@ -2,23 +2,26 @@
     background-color: #343a40;
     color: white;
     padding-top: 0px; 
+    
 }
 
+/*
 #myFooter .footer-copyright {
     background-color: #343a40;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     text-align: center;
 }
 
 #myFooter .row {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
-#myFooter .navbar-brand {
-    margin-top: 45px;
+ #myFooter .navbar-brand {
+    margin-top: 0px;
     height: 65px;
 }
+*/
 
 #myFooter .footer-copyright p {
     margin: 10px;
@@ -35,7 +38,7 @@
     font-size: 15px;
     color: white;
     font-weight: bold;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 #myFooter h2 a{

@@ -1,8 +1,15 @@
+.navbar
+    {
+        height: 50px;
+
+    }
+
 .navbar-brand
     {
       font-size: 25px;
       font-family: 'Titillium Web';
       font-weight: 800;
+
     }
 .nav-link
     {
