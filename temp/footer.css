@@ -32,6 +32,7 @@
     list-style-type: none;
     padding-left: 0;
     line-height: 1.7;
+    
 }
 
 #myFooter h5 {                                      /* REALTIME, VISUAL, MEDIM */
@@ -39,6 +40,7 @@
     color: white;
     font-weight: bold;
     margin-top: 15px;
+    
 }
 
 #myFooter h2 a{
@@ -51,6 +53,7 @@
     color: #d2d1d1;
     text-decoration: none;
     font-size: 13px
+    
 }
 
 #myFooter a:hover,
@@ -100,7 +103,7 @@
     line-height: 25px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 640px) {
     #myFooter {
         text-align: center;
     }
