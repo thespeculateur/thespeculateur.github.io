@@ -10,23 +10,13 @@
     }
 .d4 {background:white;}
 
-.d5 {background:PaleGreen;}
+.d5 {background: white;}
 
-
-.container {
-  font-size: 40px;
-  width: 100%;
-  background: white;
-  display: grid;
-  grid-template-columns: 3fr auto ;
-  grid-template-rows: 380px auto;
-  grid-column-gap: 2px;
-  grid-row-gap: 2px;
-}
+.d6 {background:white;}
 
 .wrapper {
     display: grid;
     grid-template-columns: 33.33% 33.33% 33.33%;
-    grid-template-rows: 100px 100px 100px;
+    grid-template-rows: 5500px 100px
 }
 
