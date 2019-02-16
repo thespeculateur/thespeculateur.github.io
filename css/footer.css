@@ -1,6 +1,8 @@
 #myFooter {
 	background-color: #343a40;
 	color:white;
+	
+        
 }
 
 #myFooter .footer-copyright{
@@ -111,5 +113,6 @@ body{
 
 #myFooter{
 	flex: 0 0 auto;
-    -webkit-flex: 0 0 auto;
+	-webkit-flex: 0 0 auto;
+	
 }
