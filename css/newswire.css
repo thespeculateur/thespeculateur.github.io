@@ -20,3 +20,14 @@
     grid-template-rows: 6000px 0px
 }
 
+@media only screen and (max-width: 600px) {
+    .d3 {
+        display: none;
+    } 
+    .wrapper {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-rows: 6000px 0px
+    }
+
+}
