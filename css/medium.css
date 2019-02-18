@@ -56,14 +56,6 @@
 
 		}
 
-		@media screen and (max-width: 360px) {
-
-			}
-
-		}
-
-	}
-
 		a:hover {
 			border-bottom-color: #343a40;
 			color: #343a40 !important;
