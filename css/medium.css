@@ -56,6 +56,13 @@
 
 		}
 
+		@media screen and (max-width: 360px) {
+
+		}
+
+		}										/* Mysterious brackets */
+
+		}
 		a:hover {
 			border-bottom-color: #343a40;
 			color: #343a40 !important;
